@@ -1,0 +1,11 @@
+# Codebuch füt Testprojekt
+
+Wir untersuchen ein Netzwerk der Gäste von Anne Will und ihre Parteizugehörigkeit.
+
+### Nodelist
+id = Initialen Vor- und Nachname, kleingeschrieben.  
+name = Voller Name
+
+### Edgelist
+from = Gast.  
+to = besuchte Show oder Parteimitgliedschaft
